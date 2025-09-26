@@ -1,4 +1,4 @@
-import PokemonList from "./components/PokemonlIst/PokemonList";
+import PokemonList from "./components/PokemonList/PokemonList";
 import LayoutPokemon from "./components/Layouts/LayoutsPokemon";
 
 
